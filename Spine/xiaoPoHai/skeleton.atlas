@@ -1,0 +1,132 @@
+
+skeleton.png
+size: 315,126
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/Boby
+  rotate: false
+  xy: 152, 51
+  size: 61, 73
+  orig: 61, 73
+  offset: 0, 0
+  index: -1
+images/Hair
+  rotate: false
+  xy: 181, 5
+  size: 57, 44
+  orig: 58, 44
+  offset: 1, 0
+  index: -1
+images/Head
+  rotate: true
+  xy: 2, 9
+  size: 115, 110
+  orig: 115, 110
+  offset: 0, 0
+  index: -1
+images/L-Calf
+  rotate: true
+  xy: 281, 21
+  size: 22, 29
+  orig: 22, 30
+  offset: 0, 0
+  index: -1
+images/L-Forearm
+  rotate: false
+  xy: 240, 14
+  size: 39, 43
+  orig: 39, 43
+  offset: 0, 0
+  index: -1
+images/L-earm
+  rotate: true
+  xy: 148, 2
+  size: 24, 31
+  orig: 25, 31
+  offset: 0, 0
+  index: -1
+images/L-eye
+  rotate: true
+  xy: 171, 37
+  size: 12, 8
+  orig: 12, 8
+  offset: 0, 0
+  index: -1
+images/L-eyebrow
+  rotate: false
+  xy: 152, 31
+  size: 17, 18
+  orig: 17, 19
+  offset: 0, 1
+  index: -1
+images/L-leg
+  rotate: true
+  xy: 281, 45
+  size: 26, 32
+  orig: 26, 33
+  offset: 0, 1
+  index: -1
+images/Mouth
+  rotate: false
+  xy: 2, 2
+  size: 15, 5
+  orig: 15, 5
+  offset: 0, 0
+  index: -1
+images/Necklace
+  rotate: true
+  xy: 215, 73
+  size: 51, 27
+  orig: 51, 27
+  offset: 0, 0
+  index: -1
+images/R-Calf
+  rotate: true
+  xy: 279, 73
+  size: 23, 34
+  orig: 23, 34
+  offset: 0, 0
+  index: -1
+images/R-Forearm
+  rotate: false
+  xy: 244, 75
+  size: 33, 49
+  orig: 33, 49
+  offset: 0, 0
+  index: -1
+images/R-earm
+  rotate: true
+  xy: 114, 2
+  size: 24, 32
+  orig: 24, 33
+  offset: 0, 0
+  index: -1
+images/R-eye
+  rotate: true
+  xy: 215, 57
+  size: 14, 7
+  orig: 14, 7
+  offset: 0, 0
+  index: -1
+images/R-eyebrow
+  rotate: false
+  xy: 224, 59
+  size: 31, 12
+  orig: 31, 13
+  offset: 0, 1
+  index: -1
+images/R-leg
+  rotate: true
+  xy: 279, 98
+  size: 26, 34
+  orig: 27, 35
+  offset: 1, 1
+  index: -1
+images/Ren-shadow
+  rotate: true
+  xy: 114, 28
+  size: 96, 36
+  orig: 103, 36
+  offset: 3, 0
+  index: -1
